@@ -1,0 +1,19 @@
+[bl12b2@192 nloptomitD4]$ ./cnlpomit --mtzin oxi/r3wg7sf.mtz --pdbin oxi/pdb3wg7.pdb --colin-fo FP,SIGFP --mapout test201803test.map --maxeval 40000 
+
+Copyright 2018 Masato Yoshimura 
+
+ 
+
+
+mtzin 	oxi/r3wg7sf.mtz
+pdbin 	oxi/pdb3wg7.pdb
+colin-fo 	FP,SIGFP
+mapout 	test201803test.map
+maxeval 	40000
+ nomit= 12672 total ASU grid = 20275200
+maxderivw = 10.266741 numderiv 5068800 sum 1181418.254959 ave 0.077692 
+numer of grid  = 1595 average density =  0.0700357
+lb0= 0 ub0 = 2.10107 
+count = 1 scale[1]= 0.838041 f = 7.71544e+07 nummax deriv 659.534906 rfac =   0.2386 x1   0.0700    0.070    0.070    0.070  
+count = 2001 scale[1]= 0.835425 f = 7.71537e+07 nummax deriv 796.875808 rfac =   0.2386 x1   0.0000    0.000    0.144    2.101  
+...
